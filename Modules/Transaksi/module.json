@@ -1,0 +1,13 @@
+{
+    "name": "Transaksi",
+    "alias": "transaksi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Transaksi\\Providers\\TransaksiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

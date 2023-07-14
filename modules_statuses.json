@@ -1,0 +1,7 @@
+{
+    "Auth": true,
+    "Master": true,
+    "Transaksi": true,
+    "Logs": true,
+    "Report": true
+}
